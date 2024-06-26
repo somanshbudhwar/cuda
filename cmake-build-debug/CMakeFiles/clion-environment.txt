@@ -1,0 +1,5 @@
+ToolSet: 16.0 (local)@C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools
+Ninja: 1.12.0@C:\Users\somansh\AppData\Local\Programs\CLion\bin\ninja\win\x64\ninja.exe
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=C:/Users/somansh/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe

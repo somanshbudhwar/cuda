@@ -1,0 +1,3 @@
+C:/Users/somansh/CLionProjects/test_cu/cmake-build-debug/CMakeFiles/test_cu.dir
+C:/Users/somansh/CLionProjects/test_cu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/somansh/CLionProjects/test_cu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
